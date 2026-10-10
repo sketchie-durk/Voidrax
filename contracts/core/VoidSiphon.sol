@@ -4,12 +4,11 @@ pragma solidity ^0.8.20;
 import "./libs/Verifier.sol";
 
 /**
- * @title VoidSiphon Mixer
- * @dev Implements a non-custodial privacy pool using zk-SNARKs.
- * Users deposit assets and receive a commitment. 
- * Withdrawal requires a zero-knowledge proof that the commitment exists in the Merkle tree.
+ * @title Voidrax Mixer
+ * @dev High-density non-custodial privacy pool using zk-SNARKs.
+ * Implements an optimized Merkle Tree for commitment management.
  */
-contract VoidSiphon {
+contract Voidrax {
     Verifier public immutable verifier;
     address public immutable admin;
     

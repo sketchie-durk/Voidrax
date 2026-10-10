@@ -1,4 +1,4 @@
-# 🌑 VOID SIPHON
+# 🌑 VOIDRAX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
@@ -6,7 +6,7 @@
 
 **STATUS: ALPHA | VERSION: 0.1.0 | CODENAME: DARK_MATTER**
 
-`VoidSiphon` is a high-density non-custodial privacy protocol for asset obfuscation. It implements a zero-knowledge (zk-SNARK) mixer, allowing users to deposit assets into a common pool and withdraw them to a fresh address without linking the two transactions.
+`Voidrax` is a high-density non-custodial privacy protocol for asset obfuscation. It implements a zero-knowledge (zk-SNARK) mixer, allowing users to deposit assets into a common pool and withdraw them to a fresh address without linking the two transactions.
 
 ## 🛠 Technical Specification
 The protocol utilizes a combination of Merkle Trees and Groth16 ZK-proofs to ensure anonymity and integrity.
